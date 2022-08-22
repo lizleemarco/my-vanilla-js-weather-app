@@ -62,16 +62,25 @@ body {
   height: 1px;
   width: 100%;
 }
-.celsius {
+.active {
   text-decoration: none;
   color: #70757a;
 }
+
 .city-header {
   color: #202124;
   font-size: 22px;
   line-height: 26px;
   margin: 0;
   font-weight: 400;
+}
+.btn {
+  background-color: #000000;
+  border-color: #fff;
+}
+.btn:hover {
+  background-color: #a0aecd;
+  border-color: #fff;
 }
 
 ul {
