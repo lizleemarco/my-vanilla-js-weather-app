@@ -82,6 +82,12 @@ body {
   background-color: #a0aecd;
   border-color: #fff;
 }
+.footer-link {
+  font-size: 12px;
+  text-decoration: none;
+  color: #70757a;
+  text-transform: none;
+}
 
 ul {
   list-style: none;
