@@ -88,6 +88,27 @@ body {
   color: #70757a;
   text-transform: none;
 }
+.forecast-weather {
+  margin-top: 50px;
+  text-align: center;
+}
+.day {
+  color: #202124;
+  line-height: 15px;
+  padding-top: 7px;
+}
+.forecast-weather-temp {
+  font-size: 13px;
+  font-weight: normal;
+  line-height: 15px;
+}
+.low-right-temp {
+  color: #70757a;
+}
+.col-2 {
+  text-align: center;
+  margin: 0 auto;
+}
 
 ul {
   list-style: none;
